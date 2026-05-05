@@ -1,278 +1,302 @@
 {
   "categories": [
-    { "id": 1, "name": "cake" },
-    { "id": 2, "name": "cheesecake" },
-    { "id": 3, "name": "cupcake" },
-    { "id": 4, "name": "donut" },
-    { "id": 5, "name": "chocolate" },
-    { "id": 6, "name": "tart" },
-    { "id": 7, "name": "macaron" },
-    { "id": 8, "name": "brownie" }
+    {
+      "id": "1",
+      "name": "cake"
+    },
+    {
+      "id": "2",
+      "name": "cheesecake"
+    },
+    {
+      "id": "3",
+      "name": "cupcake"
+    },
+    {
+      "id": "4",
+      "name": "donut"
+    },
+    {
+      "id": "5",
+      "name": "chocolate"
+    },
+    {
+      "id": "6",
+      "name": "tart"
+    },
+    {
+      "id": "7",
+      "name": "macaron"
+    },
+    {
+      "id": "8",
+      "name": "brownie"
+    }
   ],
   "products": [
     {
-      "id": 1,
-      "name": "Blackberry Cheesecake",
+      "id": "1",
+      "name": "Blackberry Cheesecake 🔥",
       "image": "BlackberryCheeseCake.jpg",
       "category": "cheesecake",
       "categoryId": 2,
       "price": 120,
-      "description": "Creamy cheesecake topped with fresh blackberry sauce.",
+      "description": "Rich and creamy cheesecake made with premium cream cheese, topped with a smooth blackberry sauce and fresh berries. Perfect balance between sweetness and tanginess for a refreshing dessert experience.",
       "rating": 4.7
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Blackberry Tarte",
       "image": "BlackBerryTarte.jpg",
       "category": "tart",
       "categoryId": 6,
       "price": 95,
-      "description": "Crispy tart filled with rich cream and fresh blackberries.",
+      "description": "Golden crispy tart filled with silky vanilla cream and topped with juicy blackberries. A delightful mix of crunch and softness in every bite.",
       "rating": 4.5
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Blueberry Cake",
       "image": "BlueBerryCake.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 110,
-      "description": "Soft vanilla cake layered with blueberry cream.",
+      "description": "Light and fluffy vanilla sponge cake layered with fresh blueberry cream and topped with a glossy blueberry glaze. A perfect choice for fruit lovers.",
       "rating": 4.6
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Brownie with Vanilla Ice Cream",
       "image": "BrownieWithVanillaIceCream.jpg",
       "category": "brownie",
       "categoryId": 8,
       "price": 85,
-      "description": "Warm chocolate brownie served with vanilla ice cream.",
+      "description": "Warm, fudgy chocolate brownie served with a scoop of creamy vanilla ice cream. The perfect dessert for chocolate lovers who enjoy a hot and cold contrast.",
       "rating": 4.8
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Caramel Chocolate",
       "image": "CaramelChocolate.jpg",
       "category": "chocolate",
       "categoryId": 5,
       "price": 60,
-      "description": "Smooth chocolate filled with rich caramel center.",
+      "description": "Smooth milk chocolate filled with a rich, gooey caramel center that melts in your mouth. A luxurious treat for caramel and chocolate fans.",
       "rating": 4.4
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Carrot Cake",
       "image": "CarrotCake.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 100,
-      "description": "Moist carrot cake with cream cheese frosting.",
+      "description": "Moist and flavorful carrot cake blended with warm spices and topped with creamy cream cheese frosting. A classic homemade taste.",
       "rating": 4.6
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Cherry Chocolate Cake",
       "image": "cherryChocolateCake.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 115,
-      "description": "Rich chocolate cake layered with cherry filling.",
+      "description": "Decadent chocolate cake layered with sweet cherry filling and covered in smooth chocolate ganache. A rich and indulgent dessert.",
       "rating": 4.7
     },
     {
-      "id": 8,
-      "name": "Chocolate Donut",
+      "id": "8",
+      "name": "Chocolate Donut 🔥",
       "image": "ChocolateDounut.jpg",
       "category": "donut",
       "categoryId": 4,
       "price": 40,
-      "description": "Soft donut covered in glossy chocolate glaze.",
+      "description": "Soft and fluffy donut dipped in glossy chocolate glaze. A simple yet satisfying sweet treat for any time of the day.",
       "rating": 4.3
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Coffee Cinabon Cake",
       "image": "CoffeeCinabonCake.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 130,
-      "description": "Coffee-flavored cinnamon cake with creamy topping.",
+      "description": "Soft cinnamon-infused cake with a hint of coffee flavor, topped with creamy frosting. Inspired by classic cinnamon rolls with a modern twist.",
       "rating": 4.8
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Hazelnut Chocolate",
       "image": "HuzelnutChocolate.jpg",
       "category": "chocolate",
       "categoryId": 5,
       "price": 65,
-      "description": "Premium chocolate blended with roasted hazelnuts.",
+      "description": "Premium chocolate blended with crunchy roasted hazelnuts, delivering a rich and nutty flavor in every bite.",
       "rating": 4.5
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Lotus Cheesecake",
       "image": "LotusCheeseCake.jpg",
       "category": "cheesecake",
       "categoryId": 2,
       "price": 125,
-      "description": "Creamy cheesecake infused with Lotus biscuit flavor.",
+      "description": "Smooth and creamy cheesecake infused with Lotus biscuit flavor, topped with a rich Lotus spread for a truly indulgent experience.",
       "rating": 4.9
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Milk Chocolate",
       "image": "MilkChocolate.jpg",
       "category": "chocolate",
       "categoryId": 5,
       "price": 50,
-      "description": "Classic smooth milk chocolate bars.",
+      "description": "Classic milk chocolate made from high-quality cocoa, offering a smooth and creamy taste loved by everyone.",
       "rating": 4.2
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Mini Chocolates",
       "image": "MiniChocolates.jpg",
       "category": "chocolate",
       "categoryId": 5,
       "price": 70,
-      "description": "Assorted bite-sized chocolates in multiple flavors.",
+      "description": "Assorted mini chocolates with a variety of flavors and fillings, perfect for sharing or enjoying a sweet selection.",
       "rating": 4.6
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Macarons Mix",
       "image": "MixedFlavoursMacron.jpg",
       "category": "macaron",
       "categoryId": 7,
       "price": 90,
-      "description": "Colorful macarons with a mix of delicious fillings.",
+      "description": "Colorful French macarons with a variety of delicious fillings including chocolate, vanilla, and fruit flavors. Light, crispy, and soft inside.",
       "rating": 4.7
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Raspberry Chocolate Cake",
       "image": "RasberryChocolateCakeFilledCream.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 120,
-      "description": "Chocolate cake filled with raspberry cream layers.",
+      "description": "Rich chocolate cake filled with smooth raspberry cream layers, combining deep chocolate flavor with a fruity twist.",
       "rating": 4.8
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Raspberry Cheesecake",
       "image": "RasberryCheeseCake.jpg",
       "category": "cheesecake",
       "categoryId": 2,
       "price": 115,
-      "description": "Smooth cheesecake topped with raspberry glaze.",
+      "description": "Creamy cheesecake topped with a vibrant raspberry glaze, offering a perfect balance between sweet and tart flavors.",
       "rating": 4.7
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Red Velvet Cake",
       "image": "redvelvet.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 110,
-      "description": "Classic red velvet cake with cream cheese frosting.",
+      "description": "Classic red velvet cake with a soft texture and creamy cream cheese frosting. A timeless favorite for special occasions.",
       "rating": 4.9
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Strawberry Cake",
       "image": "StrawberryCake.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 105,
-      "description": "Light sponge cake layered with fresh strawberries.",
+      "description": "Soft sponge cake layered with fresh strawberries and whipped cream, creating a light and refreshing dessert.",
       "rating": 4.6
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Strawberry Donut",
       "image": "StrawberryDounut.jpg",
       "category": "donut",
       "categoryId": 4,
       "price": 40,
-      "description": "Fluffy donut with sweet strawberry glaze.",
+      "description": "Fluffy donut topped with sweet strawberry glaze, delivering a fruity and delicious flavor in every bite.",
       "rating": 4.4
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Strawberry Macaron",
       "image": "StrawberryMacron.jpg",
       "category": "macaron",
       "categoryId": 7,
       "price": 45,
-      "description": "Delicate macaron filled with strawberry cream.",
+      "description": "Delicate macaron filled with smooth strawberry cream, offering a perfect balance of crisp texture and soft filling.",
       "rating": 4.5
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Strawberry Tarte",
       "image": "Strawberrytarte.jpg",
       "category": "tart",
       "categoryId": 6,
       "price": 95,
-      "description": "Buttery tart topped with fresh strawberries.",
+      "description": "Buttery tart filled with cream and topped with fresh strawberries. A refreshing and elegant dessert option.",
       "rating": 4.6
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "White Chocolate",
       "image": "whiteChocolate.jpg",
       "category": "chocolate",
       "categoryId": 5,
       "price": 55,
-      "description": "Sweet and creamy white chocolate pieces.",
+      "description": "Creamy white chocolate made from premium ingredients, offering a rich and smooth sweetness.",
       "rating": 4.3
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "White Chocolate Cake Pops",
       "image": "WhiteChocolateCakePops.jpg",
       "category": "cake",
       "categoryId": 1,
       "price": 75,
-      "description": "Soft cake pops coated in white chocolate.",
+      "description": "Soft cake pops coated with creamy white chocolate, perfect as a bite-sized dessert or sweet snack.",
       "rating": 4.6
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Strawberry Cupcake",
       "image": "Strawberrycupcake.jpg",
       "category": "cupcake",
       "categoryId": 3,
       "price": 50,
-      "description": "Soft cupcake topped with strawberry frosting.",
+      "description": "Soft and fluffy cupcake topped with smooth strawberry frosting, delivering a sweet and fruity taste.",
       "rating": 4.5
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Vanilla Cupcake",
       "image": "Vanillacupcake.jpg",
       "category": "cupcake",
       "categoryId": 3,
       "price": 45,
-      "description": "Classic vanilla cupcake with creamy frosting.",
+      "description": "Classic vanilla cupcake with light sponge and creamy frosting, perfect for everyday treats.",
       "rating": 4.4
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Chocolate Cupcake",
       "image": "chocolatecupcake.jpg",
       "category": "cupcake",
       "categoryId": 3,
       "price": 50,
-      "description": "Rich chocolate cupcake with smooth frosting.",
+      "description": "Rich chocolate cupcake with smooth and creamy frosting, ideal for chocolate lovers.",
       "rating": 4.7
     },
     {
-      "id": 27,
-      "name": "Lotus Cupcake",
+      "id": "27",
+      "name": "Lotus Cupcake (Updated)",
       "image": "lotuscupcake.jpg",
       "category": "cupcake",
       "categoryId": 3,
@@ -281,14 +305,25 @@
       "rating": 4.8
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Red Velvet Cupcake",
       "image": "redvelvetcupcake.jpg",
       "category": "cupcake",
       "categoryId": 3,
       "price": 55,
-      "description": "Classic red velvet cupcake with cream cheese topping.",
+      "description": "Classic red velvet cupcake with soft texture and rich cream cheese topping. A perfect mini indulgence.",
       "rating": 4.9
+    },
+    {
+      "name": "Test Cake",
+      "price": 100,
+      "image": "test.jpg",
+      "category": "cake",
+      "categoryId": 1,
+      "description": "Test",
+      "rating": 4.5,
+      "id": "8N37MdJOfqs"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
