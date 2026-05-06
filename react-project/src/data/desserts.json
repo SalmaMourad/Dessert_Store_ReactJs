@@ -1,5 +1,5 @@
 {
-  "categories": [
+  "categories_en": [
     {
       "id": "1",
       "name": "cake"
@@ -33,10 +33,44 @@
       "name": "brownie"
     }
   ],
-  "products": [
+  "categories_ar": [
+    {
+      "id": 1,
+      "name": "كيك"
+    },
+    {
+      "id": 2,
+      "name": "تشيز كيك"
+    },
+    {
+      "id": 3,
+      "name": "كب كيك"
+    },
+    {
+      "id": 4,
+      "name": "دونات"
+    },
+    {
+      "id": 5,
+      "name": "شوكولاتة"
+    },
+    {
+      "id": 6,
+      "name": "تارت"
+    },
+    {
+      "id": 7,
+      "name": "ماكرون"
+    },
+    {
+      "id": 8,
+      "name": "براوني"
+    }
+  ],
+  "products_en": [
     {
       "id": "1",
-      "name": "Blackberry Cheesecake 🔥",
+      "name": "Blackberry Cheesecake ",
       "image": "BlackberryCheeseCake.jpg",
       "category": "cheesecake",
       "categoryId": 2,
@@ -106,7 +140,7 @@
     },
     {
       "id": "8",
-      "name": "Chocolate Donut 🔥",
+      "name": "Chocolate Donut",
       "image": "ChocolateDounut.jpg",
       "category": "donut",
       "categoryId": 4,
@@ -323,6 +357,288 @@
       "description": "Test",
       "rating": 4.5,
       "id": "8N37MdJOfqs"
+    }
+  ],
+  "products_ar": [
+    {
+      "id": 1,
+      "name": "تشيز كيك التوت الأسود",
+      "image": "BlackberryCheeseCake.jpg",
+      "category": "تشيز كيك",
+      "categoryId": 2,
+      "price": 120,
+      "description": "تشيز كيك غني وكريمي مصنوع من أفضل أنواع الجبن الكريمي، مغطى بصوص التوت الأسود الناعم وحبات التوت الطازجة. توازن مثالي بين الحلاوة والطعم الحامضي لتجربة منعشة.",
+      "rating": 4.7
+    },
+    {
+      "id": 2,
+      "name": "تارت التوت الأسود",
+      "image": "BlackBerryTarte.jpg",
+      "category": "تارت",
+      "categoryId": 6,
+      "price": 95,
+      "description": "تارت مقرمش ذهبي محشو بكريمة فانيليا ناعمة ومغطى بحبات التوت الأسود الطازجة، مزيج رائع بين القرمشة والنعومة في كل قضمة.",
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "كيك التوت الأزرق",
+      "image": "BlueBerryCake.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 110,
+      "description": "كيك إسفنجي خفيف وهش بطبقات من كريمة التوت الأزرق ومغطى بطبقة لامعة من صوص التوت. خيار مثالي لمحبي الفواكه.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "براوني مع آيس كريم الفانيليا",
+      "image": "BrownieWithVanillaIceCream.jpg",
+      "category": "براوني",
+      "categoryId": 8,
+      "price": 85,
+      "description": "براوني شوكولاتة دافئ وغني يُقدم مع كرة من آيس كريم الفانيليا الكريمي، تجربة مثالية لعشاق الشوكولاتة بين الساخن والبارد.",
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "name": "شوكولاتة بالكراميل",
+      "image": "CaramelChocolate.jpg",
+      "category": "شوكولاتة",
+      "categoryId": 5,
+      "price": 60,
+      "description": "شوكولاتة ناعمة محشوة بكراميل غني يذوب في الفم، تجربة فاخرة لعشاق الكراميل والشوكولاتة.",
+      "rating": 4.4
+    },
+    {
+      "id": 6,
+      "name": "كيك الجزر",
+      "image": "CarrotCake.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 100,
+      "description": "كيك جزر طري وغني بالنكهات مع لمسة من التوابل الدافئة ومغطى بكريمة الجبن، بطعم منزلي أصيل.",
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "كيك الشوكولاتة بالكرز",
+      "image": "cherryChocolateCake.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 115,
+      "description": "كيك شوكولاتة فاخر بطبقات من حشوة الكرز الحلوة ومغطى بطبقة جاناش شوكولاتة ناعمة، حلوى غنية ومميزة.",
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "دونات الشوكولاتة",
+      "image": "ChocolateDounut.jpg",
+      "category": "دونات",
+      "categoryId": 4,
+      "price": 40,
+      "description": "دونات طري وخفيف مغطى بطبقة شوكولاتة لامعة، خيار بسيط ولذيذ في أي وقت.",
+      "rating": 4.3
+    },
+    {
+      "id": 9,
+      "name": "كيك سينابون بالقهوة",
+      "image": "CoffeeCinabonCake.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 130,
+      "description": "كيك بنكهة القرفة مع لمسة قهوة مميزة ومغطى بكريمة ناعمة، مستوحى من لفائف السينابون الكلاسيكية.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "name": "شوكولاتة بالبندق",
+      "image": "HuzelnutChocolate.jpg",
+      "category": "شوكولاتة",
+      "categoryId": 5,
+      "price": 65,
+      "description": "شوكولاتة فاخرة ممزوجة ببندق محمص مقرمش، تقدم طعم غني ومميز في كل قضمة.",
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "name": "تشيز كيك اللوتس",
+      "image": "LotusCheeseCake.jpg",
+      "category": "تشيز كيك",
+      "categoryId": 2,
+      "price": 125,
+      "description": "تشيز كيك كريمي بنكهة بسكويت اللوتس ومغطى بطبقة غنية من صوص اللوتس، تجربة فاخرة لعشاق اللوتس.",
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "name": "شوكولاتة بالحليب",
+      "image": "MilkChocolate.jpg",
+      "category": "شوكولاتة",
+      "categoryId": 5,
+      "price": 50,
+      "description": "شوكولاتة بالحليب ناعمة مصنوعة من أفضل أنواع الكاكاو، بطعم كلاسيكي محبوب للجميع.",
+      "rating": 4.2
+    },
+    {
+      "id": 13,
+      "name": "شوكولاتة صغيرة متنوعة",
+      "image": "MiniChocolates.jpg",
+      "category": "شوكولاتة",
+      "categoryId": 5,
+      "price": 70,
+      "description": "تشكيلة من قطع الشوكولاتة الصغيرة بنكهات وحشوات مختلفة، مثالية للمشاركة أو الاستمتاع بتنوع رائع.",
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "مكس ماكرون",
+      "image": "MixedFlavoursMacron.jpg",
+      "category": "ماكرون",
+      "categoryId": 7,
+      "price": 90,
+      "description": "ماكرون فرنسي ملون بنكهات متنوعة مثل الشوكولاتة والفانيليا والفواكه، خفيف ومقرمش من الخارج وناعم من الداخل.",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "كيك الشوكولاتة بالتوت",
+      "image": "RasberryChocolateCakeFilledCream.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 120,
+      "description": "كيك شوكولاتة غني محشو بكريمة التوت، يجمع بين الطعم العميق للشوكولاتة ولمسة فاكهية مميزة.",
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "name": "تشيز كيك التوت",
+      "image": "RasberryCheeseCake.jpg",
+      "category": "تشيز كيك",
+      "categoryId": 2,
+      "price": 115,
+      "description": "تشيز كيك ناعم مغطى بطبقة توت لامعة، يقدم توازن مثالي بين الحلاوة والطعم الحامضي.",
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "name": "كيك ريد فيلفيت",
+      "image": "redvelvet.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 110,
+      "description": "كيك ريد فيلفيت كلاسيكي بقوام ناعم وكريمة جبن غنية، خيار مثالي للمناسبات الخاصة.",
+      "rating": 4.9
+    },
+    {
+      "id": 18,
+      "name": "كيك الفراولة",
+      "image": "StrawberryCake.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 105,
+      "description": "كيك إسفنجي بطبقات من الفراولة الطازجة والكريمة المخفوقة، حلوى خفيفة ومنعشة.",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "دونات الفراولة",
+      "image": "StrawberryDounut.jpg",
+      "category": "دونات",
+      "categoryId": 4,
+      "price": 40,
+      "description": "دونات طري مغطى بصوص الفراولة الحلو، يقدم طعم فاكهي لذيذ في كل قضمة.",
+      "rating": 4.4
+    },
+    {
+      "id": 20,
+      "name": "ماكرون الفراولة",
+      "image": "StrawberryMacron.jpg",
+      "category": "ماكرون",
+      "categoryId": 7,
+      "price": 45,
+      "description": "ماكرون ناعم محشو بكريمة الفراولة، يجمع بين القرمشة الخفيفة والحشوة الناعمة.",
+      "rating": 4.5
+    },
+    {
+      "id": 21,
+      "name": "تارت الفراولة",
+      "image": "Strawberrytarte.jpg",
+      "category": "تارت",
+      "categoryId": 6,
+      "price": 95,
+      "description": "تارت زبدة غني محشو بالكريمة ومغطى بالفراولة الطازجة، خيار أنيق ومنعش.",
+      "rating": 4.6
+    },
+    {
+      "id": 22,
+      "name": "شوكولاتة بيضاء",
+      "image": "whiteChocolate.jpg",
+      "category": "شوكولاتة",
+      "categoryId": 5,
+      "price": 55,
+      "description": "شوكولاتة بيضاء كريمية مصنوعة من مكونات عالية الجودة، بطعم غني وناعم.",
+      "rating": 4.3
+    },
+    {
+      "id": 23,
+      "name": "كيك بوبس بالشوكولاتة البيضاء",
+      "image": "WhiteChocolateCakePops.jpg",
+      "category": "كيك",
+      "categoryId": 1,
+      "price": 75,
+      "description": "قطع كيك صغيرة مغطاة بالشوكولاتة البيضاء الكريمية، مثالية كحلوى خفيفة أو سناك سريع.",
+      "rating": 4.6
+    },
+    {
+      "id": 24,
+      "name": "كب كيك الفراولة",
+      "image": "Strawberrycupcake.jpg",
+      "category": "كب كيك",
+      "categoryId": 3,
+      "price": 50,
+      "description": "كب كيك طري وخفيف مغطى بكريمة فراولة ناعمة، بطعم حلو ومنعش.",
+      "rating": 4.5
+    },
+    {
+      "id": 25,
+      "name": "كب كيك الفانيليا",
+      "image": "Vanillacupcake.jpg",
+      "category": "كب كيك",
+      "categoryId": 3,
+      "price": 45,
+      "description": "كب كيك فانيليا كلاسيكي بقوام خفيف وكريمة ناعمة، مثالي لكل الأوقات.",
+      "rating": 4.4
+    },
+    {
+      "id": 26,
+      "name": "كب كيك الشوكولاتة",
+      "image": "chocolatecupcake.jpg",
+      "category": "كب كيك",
+      "categoryId": 3,
+      "price": 50,
+      "description": "كب كيك شوكولاتة غني مغطى بكريمة ناعمة، خيار مثالي لعشاق الشوكولاتة.",
+      "rating": 4.7
+    },
+    {
+      "id": 27,
+      "name": "كب كيك اللوتس",
+      "image": "lotuscupcake.jpg",
+      "category": "كب كيك",
+      "categoryId": 3,
+      "price": 55,
+      "description": "كب كيك بنكهة اللوتس مع كريمة لوتس غنية، يقدم تجربة طعم فريدة ومميزة.",
+      "rating": 4.8
+    },
+    {
+      "id": 28,
+      "name": "كب كيك ريد فيلفيت",
+      "image": "redvelvetcupcake.jpg",
+      "category": "كب كيك",
+      "categoryId": 3,
+      "price": 55,
+      "description": "كب كيك ريد فيلفيت كلاسيكي بقوام ناعم وكريمة جبن غنية، حلوى صغيرة لكنها فاخرة.",
+      "rating": 4.9
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
